@@ -16,5 +16,18 @@ for (let i = 0; i < namesList.length; i++) {
 
 console.log(completeNameList);
 
+// CON IL WHILE MI DA UNDEFINED UN VALORE DELL'ARRAY
+
+/* let n = 0;
+while (n < namesList.length) {
+    n++;
+    firstName = namesList[n];
+    lastName = surnameList[n];
+    completeName = (`${firstName} ${lastName}`);
+    completeNameList.push(completeName);
+};
+
+console.log(completeNameList); */
+
 
 
