@@ -9,6 +9,7 @@ let sum = 0;
 let sum2 = 0;
 
 // CICLO WHILE
+
 let i = 0;
 
 while (i < 5) {
@@ -20,9 +21,11 @@ while (i < 5) {
 console.log(sum);
 
 // CICLO FOR
-for (let index = 0; index < 5; index++) {
+
+/* for (let index = 0; index < 5; index++) {
     userNumbers2 = Number(prompt('Inserisci un numero.'));
     sum2 += userNumbers2;
 }
 
 console.log(sum2);
+console.log(sum + sum2); */
